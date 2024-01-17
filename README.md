@@ -136,7 +136,7 @@ The main code files can be found [here](https://github.com/GeorgiosIoannouCoder/
 
 ## Demo
 
-
+https://github.com/GeorgiosIoannouCoder/javafx-painting-application/assets/110848236/4d9c5542-2978-4730-ac4a-4b10af38dd23
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
