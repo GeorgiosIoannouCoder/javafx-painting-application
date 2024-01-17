@@ -1,4 +1,4 @@
-package edu.cuny.ccny.ioannou_painting_application; 
+package edu.cuny.ccny.ioannou_painting_application;
 
 public class A5Rectangle {
     private double x;
